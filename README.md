@@ -6,7 +6,7 @@
 
 - Visual Studio or Visual Studio Code: Recommended for development.
 
-Step 1: Clone the Repository
+Step 1: Clone the Repository  
 Clone the repository to your local machine:
 ```
 git clone [https://github.com/your-repo/crud-app-dotnet.git]
