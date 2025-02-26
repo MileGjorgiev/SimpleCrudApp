@@ -23,11 +23,18 @@ No changes are required.
 
 Run the following command to apply migrations and create the database:
 ```
+current directory: SimpleCrudApp
+cd SimpleCrudApp.DAL
 dotnet ef database update
 ```
 Step 3: Run the Application
 ```
+current directory: SimpleCrudApp
+cd SimpleCrudApp.API
 dotnet run
 ```
 Step 4: Test the API
 You can use Swagger UI to test the API endpoints.
+```
+URL: http://localhost:5274/swagger
+```
