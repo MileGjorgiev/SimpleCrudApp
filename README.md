@@ -9,7 +9,7 @@
 Step 1: Clone the Repository  
 Clone the repository to your local machine:
 ```
-git clone https://github.com/your-repo/crud-app-dotnet.git
+git clone [https://github.com/your-repo/crud-app-dotnet.git](https://github.com/MileGjorgiev/SimpleCrudApp)
 cd SimpleCrudApp
 ```
 Step 2: Set Up the Database  
