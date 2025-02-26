@@ -12,7 +12,7 @@ Clone the repository to your local machine:
 git clone [https://github.com/your-repo/crud-app-dotnet.git]
 cd SimpleCrudApp
 ```
-Step 2: Set Up the Database
+Step 2: Set Up the Database  
 The application is configured to use SQL Server LocalDB with the following connection string in appsettings.json:
 ```json
 "ConnectionStrings": {
